@@ -1,2 +1,2 @@
 # Maching Learning with Python using Kaggle
-This repository contains the Jupyter notebooks that I have used to practice basic machine learning skills with Python.  Each project is contained within its own folder, which contains the Jupyter notebook and the data used, if public. If the data are private, data sources are indicated in each Jupyter notebook's Markdown cells.
+This repository contains the Jupyter notebooks I am creating to practice machine learning skills with Python.  Each project is contained within its own folder and each folder contains the Jupyter notebook, the data used&mdash;if public&mdash;and any other files used during the project. If the data are private, data sources are indicated in each Jupyter notebook's Markdown cells.
