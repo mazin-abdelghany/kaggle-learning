@@ -1,1 +1,0 @@
-The links in the Titanic Jupyter Notebook only function directly in the Jupyter Notebook environment itself.
